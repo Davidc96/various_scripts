@@ -1,2 +1,2 @@
 # various_scripts
-Varios scripts en python
+Varios scripts en python por si alguien se deja el ordenador desbloqueado jeje
